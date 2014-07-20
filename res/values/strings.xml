@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BarcodeReview</string>
+    <array name="process_name">
+	    <item>BarcodeReader</item>
+    	<item>Amazon</item>
+    	<item>GoodReads</item>
+    	<item>ExchangeRate</item>
+    	<item>TranslateDescription</item>
+    	<item>TranslateReview</item>
+    	<item>Output</item>
+    </array>
+    <array name="process_number">
+	    <item>0x001</item>
+    	<item>0x002</item>
+    	<item>0x003</item>
+    	<item>0x004</item>
+    	<item>0x005</item>
+    	<item>0x006</item>
+    	<item>0x007</item>
+    </array>
+</resources>
